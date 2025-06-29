@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  Aplicación de ejemplo basada en el BluePrint de AWS SAM, Serverless API
+  Aplicación de ejemplo basada en el BluePrint de AWS SAM, Serverless API, v2!
 Transform:
 - AWS::Serverless-2016-10-31
 
